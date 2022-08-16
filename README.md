@@ -3,12 +3,9 @@
 
 # Desafio Módulo 5 - Backend
 
-Seja bem vindo(a) ao desafio do módulo 5.
+ Olá seja bem vindo ao meu perfil. Esse foi o desafio final do curso de desenvolvimento backend  módulo 5 na Cubos Academy.
 
-Sua tarefa como desenvolvedor(a) será criar uma API para um PDV (Frente de Caixa). Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas.
-
-
-**Importante 1: O diretório ".github" e seu conteúdo não podem ser alterados e muito menos excluídos**
+A tarefa como desenvolvedor(a) será criar uma API para um PDV (Frente de Caixa). Esse será um projeto piloto, ou seja, no futuro outras funcionalidades serão implementadas.
 
 **Importante 2: Sempre que a validação de uma requisição falhar, responda com código de erro e mensagem adequada à situação, ok?**
 
